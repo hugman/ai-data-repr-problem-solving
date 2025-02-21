@@ -1,6 +1,6 @@
 # Artificial Intelligence: Data Representation and Problem Solving
 
-This repository contains all code implementations and supplementary materials for the book *Artificial Intelligence: Data Representation and Problem Solving*. The book explores AI's role in data representation and problem-solving, detailing both theoretical aspects and practical applications.
+This repository contains all code implementations and supplementary materials for the book **Artificial Intelligence: Data Representation and Problem Solving**. The book explores AI's role in data representation and problem-solving, detailing both theoretical aspects and practical applications.
 
 ## 📖 Overview of the Book
 
@@ -52,6 +52,14 @@ This repository provides hands-on code implementations for the book’s core con
    ```bash
    pip install -r requirements.txt
    ```
+
+## 📝 Jupyter Notebook and Google Colab
+
+All code in this repository is implemented using **Jupyter Notebook (`.ipynb`)** format. Each notebook has been tested on **Google Colab Free Tier** to ensure smooth execution.
+
+The **recommended way to run these codes** is using **Google Colab**, as it provides an easy-to-use environment with pre-installed dependencies and GPU support.
+
+---
 
 ## 📜 License
 
